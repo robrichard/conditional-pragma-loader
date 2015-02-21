@@ -1,0 +1,28 @@
+{
+  "name": "conditional-pragma-loader",
+  "version": "1.0.0",
+  "description": " webpack loader to ignore remaining loaders when the file does not contain a pragma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robrichard/conditional-pragma-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "conditional",
+    "pragma"
+  ],
+  "author": "Rob Richard",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robrichard/conditional-pragma-loader/issues"
+  },
+  "homepage": "https://github.com/robrichard/conditional-pragma-loader",
+  "dependencies": {
+    "loader-utils": "^0.2.6"
+  }
+}
