@@ -1,6 +1,6 @@
 {
   "name": "conditional-pragma-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " webpack loader to ignore remaining loaders when the file does not contain a pragma.",
   "main": "index.js",
   "scripts": {
