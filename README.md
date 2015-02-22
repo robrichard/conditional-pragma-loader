@@ -18,3 +18,6 @@ loaders: [
 ]
 ...
 ```
+
+## Caveats
+Currently only works when chained with one additional loader
